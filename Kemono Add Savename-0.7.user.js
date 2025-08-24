@@ -6,6 +6,7 @@
 // @author       kumiko
 // @match        https://kemono.cr/*/user/*/post/*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
