@@ -5,6 +5,7 @@
 // @description  Add savename below title on multiple kemono post pages
 // @author       kumiko
 // @match        https://kemono.cr/*/user/*/post/*
+// @match        https://kemono.cr/*
 // @grant        none
 // @license      MIT
 // ==/UserScript==
